@@ -5,10 +5,10 @@
   "main": "./WhatsAsenaDuplicated/bot.js",
   "scripts": {
     "start": "supervisor -s bot.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/phaticusthiccy/WhatsAsenaDuplicated.git"
+
+
+
+
   },
   "keywords": [
     "whatsapp",
